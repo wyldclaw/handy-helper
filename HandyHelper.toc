@@ -1,0 +1,9 @@
+## Interface: 92500
+## Title: Handy Helper
+## Notes: Helper addon for developing HandyNotes plugins
+## Author: Wyldclaw-Lightbringer
+## Version: 0.1
+
+embeds.xml
+
+HandyHelper.lua
